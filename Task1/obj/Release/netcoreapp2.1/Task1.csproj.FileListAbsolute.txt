@@ -1,0 +1,11 @@
+C:\Users\ikise\Desktop\Task1\Task1\bin\Release\netcoreapp2.1\Task1.deps.json
+C:\Users\ikise\Desktop\Task1\Task1\bin\Release\netcoreapp2.1\Task1.runtimeconfig.json
+C:\Users\ikise\Desktop\Task1\Task1\bin\Release\netcoreapp2.1\Task1.runtimeconfig.dev.json
+C:\Users\ikise\Desktop\Task1\Task1\bin\Release\netcoreapp2.1\Task1.dll
+C:\Users\ikise\Desktop\Task1\Task1\bin\Release\netcoreapp2.1\Task1.pdb
+C:\Users\ikise\Desktop\Task1\Task1\obj\Release\netcoreapp2.1\Task1.csprojAssemblyReference.cache
+C:\Users\ikise\Desktop\Task1\Task1\obj\Release\netcoreapp2.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\ikise\Desktop\Task1\Task1\obj\Release\netcoreapp2.1\Task1.AssemblyInfoInputs.cache
+C:\Users\ikise\Desktop\Task1\Task1\obj\Release\netcoreapp2.1\Task1.AssemblyInfo.cs
+C:\Users\ikise\Desktop\Task1\Task1\obj\Release\netcoreapp2.1\Task1.dll
+C:\Users\ikise\Desktop\Task1\Task1\obj\Release\netcoreapp2.1\Task1.pdb
